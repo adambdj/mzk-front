@@ -14,7 +14,7 @@ const Banner = () => {
                     <div className="row">
                         <div className="col-xl-6 col-lg-8">
                             <div className="banner-one__content">
-                                <h3 className="banner-one__title">Vos données d'écoutes<br />
+                                <h3 className="banner-one__title">Vos données d'écoutes <br />
                                     en <span>détails</span>.</h3>
                                 <p className="banner-one__text">
                                 Découvrez-en plus sur vos données d'écoutes et accédez à des fonctionnalités supplémentaires avec <span>Muzik</span>.
