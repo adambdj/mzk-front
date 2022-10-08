@@ -54,7 +54,7 @@ export default class NavOne extends Component {
                         <div className="logo-box clearfix">
                             <a className="navbar-brand" href="/">
                                 <img src="/assets/images/resources/logo2.png" className="main-logo" width="300"
-                                     alt="Awesome Image" />
+                                     alt="Muzik Logo" />
                             </a>
                             <button className="menu-toggler">
                                 <span className="fa fa-bars"></span>

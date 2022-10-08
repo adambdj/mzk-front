@@ -217,6 +217,8 @@
   .header-navigation .container .logo-box .navbar-brand {
     float: left;
     padding: 20px 0;
+    background-color: transparent;
+    width: 50%;
   }
 
   .header-navigation .container .logo-box .navbar-toggler {
@@ -267,10 +269,6 @@
 
   .header-navigation.stricky-fixed ul.navigation-box > li {
     padding: 0;
-  }
-
-  .header-navigation .container .logo-box .navbar-brand {
-    background-color: transparent;
   }
 
   .header-navigation .container .menu-toggler {
@@ -397,6 +395,7 @@
 
   .banner-one__moc {
     display: none;
+    margin-top:9em;
   }
 
   .banner-one .container {

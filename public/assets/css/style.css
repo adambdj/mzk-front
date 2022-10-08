@@ -114,7 +114,9 @@ a:visited {
 }
 .thm-btn span {
   position: relative;
+  font-size: large;
 }
+
 .thm-btn:hover {
   color: #fff;
 }
@@ -486,6 +488,7 @@ a:visited {
   width: 100%;
   z-index: 91;
 }
+
 .site-header__header-one .header-navigation .main-navigation {
   padding-right: 0;
   text-align: center;
