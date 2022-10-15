@@ -1,7 +1,7 @@
 import React,{ Component } from 'react';
 import Link from 'next/link';
 
-export default class NavOne extends Component {
+export default class Nav extends Component {
     constructor(){
         super()
         this.state = {
@@ -46,7 +46,7 @@ export default class NavOne extends Component {
     render(){
         return (
 
-            <header className="site-header site-header__header-one">
+            <header className="site-header site-header__header-one mt-5">
                 <nav className={`navbar navbar-expand-lg navbar-light header-navigation stricky mt-5 stricky-fixed' : ''}`}>
                 {/* <nav className={`navbar navbar-expand-lg navbar-light header-navigation stricky mt-5 ${this.state.sticky ? 'stricked-menu stricky-fixed' : ''}`}> */}
 
