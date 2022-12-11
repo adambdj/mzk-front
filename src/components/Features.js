@@ -43,7 +43,7 @@ const Features = () => {
                             {/* <div className="service-one__single text-center">
                                 <div className="service-one__inner">
                                     <i className="service-one__icon dimon-icon-visualization"></i>
-                                    <h3><a href="#">Content <br /> Marketing</a></h3>
+                                    <h3><a href="#">About <br /> Marketing</a></h3>
                                     <p>Lorem ipsum is are <br /> many variations of <br /> pass of majority.</p>
                                     <a href="#" className="service-one__link"><i className="dimon-icon-right-arrow"></i></a>
                                 </div>

@@ -292,7 +292,7 @@ figure figcaption {
 #colorlib-hero .flexslider .slides {
     position: relative;
     overflow: visible; }
-#colorlib-hero .flexslider .slides li {
+#colorlib-hero .flexslider .slides div {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -1827,7 +1827,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .section2{
-    background-image: url('/images/banner2.png');
+    background-image: url('../../images/documentation/banner2.png');
     padding: 4em 0.5em;
     background-size: cover;
     text-align: center;

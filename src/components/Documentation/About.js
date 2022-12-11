@@ -1,34 +1,12 @@
 import React, { Component } from 'react';
 
-export default class Content extends Component {
+export default class About extends Component {
     constructor(){
         super()
     }
     
     render(){
         return (
-            <div id="colorlib-main">
-                <section id="colorlib-hero" className="js-fullheight" data-section="home">
-                    <div className="flexslider js-fullheight" style={{backgroundColor:"transparent"}}>
-                        <ul className="slides">
-                            <li style={{backgroundImage:"url(/assets/images/documentation/giphy.gif)"}}>
-                                <div className="overlay"></div>
-                                <div className="container-fluid">
-                                    <div className="row">
-                                        <div
-                                            className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
-                                            <div className="slider-text-inner js-fullheight">
-                                                <div className="desc">
-                                                    <h1>Bienvenue !<br/></h1>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </section>
                 <section className="colorlib-about" data-section="about">
                     <div className="colorlib-narrow-content">
                         <div className="row">
@@ -118,8 +96,6 @@ export default class Content extends Component {
                         </div>
                     </div>
                 </section>
-            </div>
-
         )
     }
 }
