@@ -1,5 +1,5 @@
 import Layout from "../components/Layout";
-import NavTwo from "../components/NavTwo";
+import Nav from "../components/Nav";
 import PageHeader from "../components/PageHeader";
 import News from "../components/News";
 import Footer from "../components/Footer";
@@ -9,7 +9,7 @@ import Footer from "../components/Footer";
 const NewsPage = () => (
 
     <Layout pageTitle="Dimon | News">
-        <NavTwo />
+        <Nav />
         <PageHeader title="News" />
         <News />
         <Footer />
