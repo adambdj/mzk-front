@@ -68,7 +68,7 @@ export default class Nav extends Component {
                                     </li>*/}
                                 {
                                     <li className="scrollToLink">
-                                        <a href="/documentation">Documentation</a>
+                                        <a href="https://adambouarroudj.com/">Documentation</a>
 
                                     </li>
 
